@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# 👋 Hi There 👋
+
+I'm Prabin Kumar Shrestha, a passionate Software Development Engineer, originally from Nepal 🇳🇵, currently residing in St. John's, NL, Canada 🇨🇦.
 
 <!--
 **prabinKshrestha/prabinKshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
