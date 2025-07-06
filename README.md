@@ -1,7 +1,7 @@
 
 # 👋 Hi There 👋
 
-I'm Prabin Kumar Shrestha, a Software Development Engineer, originally from Nepal <img src="https://hatscripts.github.io/circle-flags/flags/np.svg" width="15"> , currently residing in St. John's, NL, Canada <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="15">.
+I'm Prabin Kumar Shrestha, a Software Engineer, originally from Nepal <img src="https://hatscripts.github.io/circle-flags/flags/np.svg" width="15"> , currently residing in St. John's, NL, Canada <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="15">.
 
 <!--
 **prabinKshrestha/prabinKshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
